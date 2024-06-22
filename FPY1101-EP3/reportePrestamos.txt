@@ -1,0 +1,3 @@
+Reporte de préstamos:
+USUARIO 		 TITULO 		 FECHA DE PRESTAMO
+1234567		 1234567		 17/5/2021
